@@ -11,9 +11,9 @@ reward to your own wallet.
 
 This guide walks you from zero to your first submitted entry.
 
-> **Start here:** sign up with my link — [https://make.fun/r/gbcjy254](https://make.fun/r/gbcjy254)
+> **Start here:** sign up with my link — [https://make.fun/r/e4ex6rz8](https://make.fun/r/e4ex6rz8)
 >
-> My referral code is `gbcjy254`.
+> My referral code is `e4ex6rz8`.
 
 ## Contents
 
@@ -70,7 +70,7 @@ A few things worth knowing before you start:
 
 ## 1. Create your account
 
-1. Open [https://make.fun/r/gbcjy254](https://make.fun/r/gbcjy254) and click
+1. Open [https://make.fun/r/e4ex6rz8](https://make.fun/r/e4ex6rz8) and click
    **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. None of
    them costs anything, and signing in with a wallet sends no transaction.
